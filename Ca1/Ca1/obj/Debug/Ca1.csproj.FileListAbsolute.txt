@@ -1,0 +1,7 @@
+H:\CA1\CA1\Ca1\Ca1\bin\Debug\Ca1.exe.config
+H:\CA1\CA1\Ca1\Ca1\bin\Debug\Ca1.exe
+H:\CA1\CA1\Ca1\Ca1\bin\Debug\Ca1.pdb
+H:\CA1\CA1\Ca1\Ca1\obj\Debug\Ca1.csprojAssemblyReference.cache
+H:\CA1\CA1\Ca1\Ca1\obj\Debug\Ca1.csproj.CoreCompileInputs.cache
+H:\CA1\CA1\Ca1\Ca1\obj\Debug\Ca1.exe
+H:\CA1\CA1\Ca1\Ca1\obj\Debug\Ca1.pdb
